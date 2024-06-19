@@ -5,7 +5,7 @@
 [![Release](https://img.shields.io/github/v/release/judge0/ide?color=2185d0&style=flat-square)](https://github.com/judge0/ide/releases)
 [![Stars](https://img.shields.io/github/stars/judge0/ide?color=2185d0&style=flat-square)](https://github.com/judge0/ide/stargazers)
 
-<a href="https://www.producthunt.com/posts/judge0-ide" target="_blank"><img src="[https://github.com/saisharvesh03/ADAMprojectfile/blob/main/ADAM-IDE/ADAM%20IDE.png]" alt="" height="43px" /></a>
+<a href="https://www.producthunt.com/posts/judge0-ide" target="_blank"><img src="(https://github.com/saisharvesh03/ADAMprojectfile/blob/main/ADAM-IDE/ADAM%20IDE.png)" alt="" height="43px" /></a>
 <a href="https://patreon.com/hermanzdosilovic" target="_blank"><img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" alt="" height="43px" /></a>
 <a href="https://paypal.me/hermanzdosilovic" target="_blank"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="Donate with PayPal" height="43px" /></a>
 
