@@ -14,14 +14,13 @@
 
 Judge0 IDE is using [**ADAM**](https://api.judge0.com) for executing user's source code.
 
-Visit https://ide.judge0.com, enjoy and happy coding. :)
+
 
 ## Community
 Do you have a question, feature request or something else on your mind?
 Or you just want to follow Judge0 news?
 Check out these links:
 
-* [Subscribe to Judge0 newsletter](https://subscribe.judge0.com)
 * [Join a Discord server](https://discord.gg/6dvxeA8)
 * [Watch asciicasts](https://asciinema.org/~hermanzdosilovic)
 * [Report an issue](https://github.com/judge0/api/issues/new)
